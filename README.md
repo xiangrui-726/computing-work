@@ -2,3 +2,8 @@
 ## My first repo!
 
 _Hola_ *world*! I am **Xiangrui**, _student_ from Dunman High School.
+
+My hobbies
+*Drawing
+*Gaming 
+*Learning Japnese
